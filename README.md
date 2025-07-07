@@ -12,11 +12,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of finished QR code component](./finished-screenshot.png)
+![Screenshot of finished QR code component](./images/finished-screenshot.png)
 
 
 ### Links
-Live Site - [Github]https://jvadams4.github.io/qr-code-frontendmentor/
+Live Site -https://jvadams4.github.io/qr-code-frontendmentor/ <br>
 Github - [@JVAdams4](https://github.com/JVAdams4)
 
 ### Built with
